@@ -24,7 +24,7 @@ Execute o comando `$ npm install` e aguarde a instalação dos pacotes.
 
 Após o procedimento acima execute o comando `$ npm run dev`. O projeto estará rodando na porta <b>8080</b> nas seguintes rotas:
 
-<b>http://localhost:8080/api/upload/pdf</b>
-<b>http://localhost:8080/api/upload/img</b>
+<p><b>http://localhost:8080/api/upload/pdf</b></p>
+<p><b>http://localhost:8080/api/upload/img</b></p>
 
 -------------
